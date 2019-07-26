@@ -5,7 +5,6 @@ def valid_move?(board, index)
   else
     puts "Entrada valida"
   end
-
 end
 
 def some_new_fabulous_method
