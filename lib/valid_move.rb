@@ -1,9 +1,9 @@
 # code your #valid_move? method here
 def valid_move?(board, index)
   if position_taken
-    puts" Position taken"
+    true
   else
-    puts "Free position"
+    false
   end
 end
 
