@@ -3,7 +3,7 @@ def valid_move?(board, index)
   if position_taken
     puts" Position taken"
   else
-    puts "Entrada valida"
+    puts "Free position"
   end
 end
 
